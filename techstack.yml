@@ -1,7 +1,7 @@
 repo_name: KillerKat123/terragoogle
-report_id: 3848bf219a376b27ffe7a42c368d5437
+report_id: 5b176409723969498a56540921144df1
 repo_type: Public
-timestamp: '2023-11-08T14:50:56+00:00'
+timestamp: '2023-11-08T14:57:49+00:00'
 requested_by: sergeylanzman
 provider: github
 branch: master
@@ -312,14 +312,12 @@ tools:
   description: A toolkit with common assertions and mocks that plays nicely with the
     standard library
   website_url: https://github.com/stretchr/testify
-  version: 1.2.2
   license: MIT
   open_source: true
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
-  detection_source_url: go.sum
   detection_source: go.mod
 - name: ZyXel
   description: Your Networking Ally
